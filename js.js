@@ -3,8 +3,8 @@ DO NOT ALTER THE EXISTING HTML TO DO THIS.  WRITE ONLY CSS!
 */
 
 
-/* Give the <body> element a background of #bdc3c7*/
-
+/* Give the <body> element a background of */
+var getbodyTag = document.body.style.background.color="#bdc3c7";
 /* Make the <h1> element #9b59b6*/
 
 
